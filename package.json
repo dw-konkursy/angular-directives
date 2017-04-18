@@ -1,0 +1,10 @@
+{
+  "name": "comment-box",
+  "version": "1.0.0",
+  "description": "Example usage of AngularJS directives",
+  "author": "Paweł Płoneczka",
+  "dependencies": {
+    "angular": "^1.6.4"
+  },
+  "license": "MIT"
+}
